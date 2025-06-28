@@ -3,5 +3,4 @@ langgraph-prebuilt
 langchain-core
 langchain-community
 langchain-openai
-langgraph-cli
-
+langgraph-cli[inmem]

@@ -219,3 +219,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+
+# Docker files
+#  If you are using Docker, you may want to include the following lines to ignore
+.devcontainer/
+.devcontainer/devcontainer.json
